@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstring>
-using namespace std;
+using namespace std;//本程序由Linux编程科普友情提供
 int main(){
 	void sort(char* name[],int n);
 	void print(char* name[], int n);
