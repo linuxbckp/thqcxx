@@ -21,7 +21,7 @@ int main(){
 		Box(15,18,20),
 		Box(16,20,26)
 		};
-	cout<<"the volume is "<<a[0].volume()<<endl;
+	cout<<"the volume is "<<a[0].volume()<<endl;//本程序由Linux编程科普友情提供
 	cout<<"the volume2 is "<<a[1].volume()<<endl;
 	cout<<"the volume3 is "<<a[2].volume()<<endl;
 	return 0;
