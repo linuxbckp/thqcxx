@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std;//本程序由Linux编程科普友情提供
 int main(){
 	float add(float x, float y);
 	float a,b,c;
